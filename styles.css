@@ -47,7 +47,7 @@ h2 {
 }
 
 .threehoriz {
-  width: 33.3%;
+  width: 33.3333333333%;
 }
 
 .narrow {
@@ -189,12 +189,14 @@ h2 {
 /* For margin practice */
 .flag1 {
   background-color: red;
-  margin-right: 5px;
+  margin: 5px;
+  width: 515px;
 }
 
 .flag2 {
   background-color: blue;
-  margin-left: 5px;
+  margin: 5px;
+  width: 515px;
 }
 
 /* For padding practice */
