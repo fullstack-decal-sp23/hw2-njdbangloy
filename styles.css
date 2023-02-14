@@ -190,13 +190,11 @@ h2 {
 .flag1 {
   background-color: red;
   margin-right: 5px;
-  width: 515px;
 }
 
 .flag2 {
   background-color: blue;
   margin-left: 5px;
-  width: 515px;
 }
 
 /* For padding practice */
@@ -204,5 +202,5 @@ h2 {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  padding: 60px; 
+  padding: 30px; 
 }
