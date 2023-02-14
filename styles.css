@@ -67,9 +67,7 @@ h2 {
   top: 50px;
 }
 
-/* Colors */
-
-/* QUESTION 1 */
+/* label */
 
 .label {
   color:rgb(48, 132, 33);
@@ -79,6 +77,10 @@ h2 {
   color:rgb(255, 77, 12);
   font-size: 19px;
 }
+
+/* Colors */
+
+/* QUESTION 1 */
 
 .orange {
   background-color: orange;
@@ -124,14 +126,21 @@ h2 {
 
 .thailand-red {
   background-color: #B5002D;
+  height: 50px;
 }
 
 .thailand-white {
-  /* TODO */
+  background-color: #fff;
+  height: 50px;
 }
 
 .thailand-blue {
   background-color: #2E2A4C;
+  height: 100px;
+}
+
+.thailand-flag {
+  width: 500px;
 }
 
 /* END QUESTION 2 */
@@ -181,11 +190,13 @@ h2 {
 .flag1 {
   background-color: red;
   margin-right: 5px;
+  width: 515px;
 }
 
 .flag2 {
   background-color: blue;
   margin-left: 5px;
+  width: 515px;
 }
 
 /* For padding practice */
@@ -193,5 +204,5 @@ h2 {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  padding: 30px; 
+  padding: 60px; 
 }
